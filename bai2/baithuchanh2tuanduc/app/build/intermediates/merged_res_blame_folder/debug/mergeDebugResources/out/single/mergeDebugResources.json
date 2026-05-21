@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai4.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai4.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_main.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_function_box.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_function_box.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai5_add_student.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai5_add_student.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai5_student_list.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai5_student_list.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_button_primary.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai1.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai1.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_header.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_fragment_settings.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_fragment_history.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_fragment_info.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/fragment_info.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai2.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai2.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai5_home.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai5_home.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_button_green.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_button_green.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_logo.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_logo.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_button_outline.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_button_outline.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_avatar.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/drawable_bg_input.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.example.baitapui.app-debug-11:/layout_activity_bai3.xml.flat",
+        "source": "com.example.baitapui.app-main-13:/layout/activity_bai3.xml"
+    }
+]
